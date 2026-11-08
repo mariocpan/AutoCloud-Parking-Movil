@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AutoCloud Parking</string>
+    <string-array name="tipos_vehiculo">
+        <item>Seleccione el tipo de vehículo</item>
+        <item>Carro</item>
+        <item>Moto</item>
+        <item>Bicicleta</item>
+    </string-array>
+    <string name="title_activity_tarifa">TarifaActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Fullscreen\nContent</string>
+
+    <string-array name="periodos">
+        <item>Diario</item>
+        <item>Semanal</item>
+        <item>Mensual</item>
+        <item>Anual</item>
+    </string-array>
+
+    <string-array name="tipos_reporte">
+    <item>Todos</item>
+    <item>Carro</item>
+    <item>Moto</item>
+    <item>Bicicleta</item>
+    </string-array>
+
+</resources>
+
